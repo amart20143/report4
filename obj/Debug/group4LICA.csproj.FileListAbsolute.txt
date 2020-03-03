@@ -56,3 +56,5 @@ D:\group4LICA\group4LICA\obj\Debug\group4LICA.csprojAssemblyReference.cache
 D:\group4LICA\group4LICA\obj\Debug\group4LICA.csproj.CopyComplete
 D:\group4LICA\group4LICA\obj\Debug\group4LICA.dll
 D:\group4LICA\group4LICA\obj\Debug\group4LICA.pdb
+C:\Users\Experiment One\Source\Repos\amart20143\report4\obj\Debug\group4LICA.dll
+C:\Users\Experiment One\Source\Repos\amart20143\report4\obj\Debug\group4LICA.pdb
